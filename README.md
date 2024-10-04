@@ -48,7 +48,9 @@ The DataWiz GUI is designed for simplicity and efficiency. Below is a step-by-st
 
 - **Step 1:** Click on the `Load Dataset` button.
 
-![1](https://github.com/user-attachments/assets/c20c7c1b-347f-40c8-9cd4-7275ff27fb51)
+<div align = "center">
+    <img src="https://github.com/user-attachments/assets/c20c7c1b-347f-40c8-9cd4-7275ff27fb51" alt="1" width="50%">
+</div>
 
 - **Step 2:** Select your CSV or Excel file from the file dialog.
   
@@ -62,7 +64,9 @@ The DataWiz GUI is designed for simplicity and efficiency. Below is a step-by-st
 
   - Outliers
 
-![2](https://github.com/user-attachments/assets/17d79f40-52b5-4562-ba28-e2cd79607a72)
+<div align = "center">
+    <img src="https://github.com/user-attachments/assets/17d79f40-52b5-4562-ba28-e2cd79607a72" alt="1" width="50%">
+</div>
 
 **2. Handling Missing Values**
 
@@ -70,7 +74,9 @@ The DataWiz GUI is designed for simplicity and efficiency. Below is a step-by-st
 
     - Select Impute or Remove from the dropdown.
 
-![3](https://github.com/user-attachments/assets/67009203-c7d1-41d0-a4c3-f8b57da17a7c)
+<div align = "center">
+    <img src="https://github.com/user-attachments/assets/67009203-c7d1-41d0-a4c3-f8b57da17a7c" alt="1" width="50%">
+</div>
 
 - **Step 5:** If you choose **Impute**, select the imputation method (**mean** or **median**).
 
