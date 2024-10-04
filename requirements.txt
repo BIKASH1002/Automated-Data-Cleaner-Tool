@@ -1,0 +1,8 @@
+pandas: 2.2.2
+numpy: 1.26.4
+matplotlib: 3.9.2
+pillow: 10.4.0
+scipy: 1.14.1
+PIL: 10.4.0
+tkinter: 8.6
+customtkinter: 5.2.2
