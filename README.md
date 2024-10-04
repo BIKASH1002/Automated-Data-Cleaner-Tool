@@ -64,3 +64,22 @@ The DataWiz GUI is designed for simplicity and efficiency. Below is a step-by-st
 
 ![2](https://github.com/user-attachments/assets/17d79f40-52b5-4562-ba28-e2cd79607a72)
 
+**2. Handling Missing Values**
+
+- **Step 4:** In the Cleaned Dataset Analysis section, choose how to handle missing values:
+
+    - Select Impute or Remove from the dropdown.
+
+![3](https://github.com/user-attachments/assets/67009203-c7d1-41d0-a4c3-f8b57da17a7c)
+
+- **Step 5:** If you choose **Impute**, select the imputation method (**mean** or **median**).
+
+**3. Handling Outliers**
+
+- **Step 6:** Choose an outlier detection method:
+  
+    - IQR: Interquartile Range method.
+  
+     - Z-score: Standard score method.
+
+![4](https://github.com/user-attachments/assets/e894dc7c-08d6-4e25-8f08-858889206862)
