@@ -83,3 +83,24 @@ The DataWiz GUI is designed for simplicity and efficiency. Below is a step-by-st
      - Z-score: Standard score method.
 
 ![4](https://github.com/user-attachments/assets/e894dc7c-08d6-4e25-8f08-858889206862)
+
+**4. Processing the Data**
+
+- **Step 7:** Click on the `Process Data` button.
+  
+![5](https://github.com/user-attachments/assets/fa025f71-4819-4c6b-8bf1-aff320a439f6)
+
+- **Step 8:** The application cleans the data based on your selections and displays visualizations:
+
+  - A histogram for numerical data distribution.
+
+    - A count plot for categorical data distribution.
+
+![6](https://github.com/user-attachments/assets/3bf44d0b-bf61-4693-8469-7307fcab7c83)
+
+**5. Saving the Cleaned Data**
+
+- **Step 9:** Click on the `Save Cleaned Data` button.
+
+- **Step 10:** Choose the destination and file format (CSV or Excel) to save your cleaned dataset.
+
