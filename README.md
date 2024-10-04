@@ -104,3 +104,6 @@ The DataWiz GUI is designed for simplicity and efficiency. Below is a step-by-st
 
 - **Step 10:** Choose the destination and file format (CSV or Excel) to save your cleaned dataset.
 
+# Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
