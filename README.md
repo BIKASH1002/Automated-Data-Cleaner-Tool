@@ -44,7 +44,7 @@ DataWiz is an intuitive application designed to simplify the tedious process of 
 
 # Usage
 
-Run main.py
+Run [main.py](https://github.com/BIKASH1002/Automated-Data-Cleaner-Tool/blob/d7c4088ce2de55b489f05a5a1c3b4646b26b402c/Code/main.py)
 
 # GUI Walkthrough
 
