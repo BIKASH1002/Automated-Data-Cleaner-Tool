@@ -1,6 +1,5 @@
 ![MasterHead](https://github.com/user-attachments/assets/2422b41b-c578-4133-9189-5d562cb4ab3c)
 
-
 # DataWiz: An Automated Data Cleaning Tool
 
 <div align = "justify">
