@@ -126,3 +126,7 @@ The DataWiz GUI is designed for simplicity and efficiency. Below is a step-by-st
 # Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+# License
+
+This project is licensed under the MIT License.
