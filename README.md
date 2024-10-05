@@ -3,9 +3,13 @@
 
 # DataWiz: An Automated Data Cleaning Tool
 
+<div align = "justify">
+
 # Overview
 
-DataWiz is an intuitive application designed to simplify the tedious process of cleaning and preprocessing datasets. Built with a sleek and modern GUI using CustomTkinter, DataWizard empowers data scientists, analysts and enthusiasts to prepare their data efficiently without writing a single line of code.
+DataWiz is an intuitive application designed to simplify the tedious process of cleaning and preprocessing datasets. Built with a sleek and modern GUI using CustomTkinter, DataWiz empowers data scientists, analysts and enthusiasts to prepare their data efficiently without writing a single line of code.
+
+</div>
 
 # Setup
 
