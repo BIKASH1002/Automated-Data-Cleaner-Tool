@@ -12,9 +12,9 @@ DataWiz is an intuitive application designed to simplify the tedious process of 
 
 # Setup
 
-- Visual Studio Code
+- **Visual Studio Code**: for development
 
-- Tkinter and Customtkinter for GUI
+- **Tkinter** and **Customtkinter**: for GUI
 
 # Features
 
@@ -110,7 +110,7 @@ The DataWiz GUI is designed for simplicity and efficiency. Below is a step-by-st
 
   - A histogram for numerical data distribution.
 
-    - A count plot for categorical data distribution.
+  - A count plot for categorical data distribution.
 
  <div align = "center">
     <img src="https://github.com/user-attachments/assets/3bf44d0b-bf61-4693-8469-7307fcab7c83" alt="1" width="50%">
