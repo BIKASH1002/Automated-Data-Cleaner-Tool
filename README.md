@@ -90,9 +90,9 @@ The DataWiz GUI is designed for simplicity and efficiency. Below is a step-by-st
 
 - **Step 6:** Choose an outlier detection method:
   
-    - IQR: Interquartile Range method.
+    - **IQR:** Interquartile Range method.
   
-     - Z-score: Standard score method.
+     - **Z-score:** Standard normalization method.
 
 <div align = "center">
     <img src="https://github.com/user-attachments/assets/e894dc7c-08d6-4e25-8f08-858889206862" alt="1" width="50%">
@@ -128,7 +128,7 @@ The DataWiz GUI is designed for simplicity and efficiency. Below is a step-by-st
 
 # Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+Contributions are welcome. Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 # License
 
