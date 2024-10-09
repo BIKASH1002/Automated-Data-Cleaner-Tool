@@ -64,11 +64,11 @@ The DataWiz GUI is designed for simplicity and efficiency. Below is a step-by-st
 
   - Total Rows
 
-  - Rows with Missing Values
+  - Number of rows with Missing Values
 
-  - Duplicate Rows
+  - Number of duplicate rows
 
-  - Outliers
+  - Number of Outliers
 
 <div align = "center">
     <img src="https://github.com/user-attachments/assets/17d79f40-52b5-4562-ba28-e2cd79607a72" alt="1" width="50%">
