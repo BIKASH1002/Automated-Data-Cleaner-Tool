@@ -32,7 +32,7 @@ DataWiz is an intuitive application designed to simplify the tedious process of 
 
 - **Robust Outlier Detection:**
 
-    - Detect and handle outliers using IQR or Z-score methods.
+    - Detect and handle outliers using Interqunatile Range(IQR) or Z-score methods.
 
 - **Data Visualization:**
 
